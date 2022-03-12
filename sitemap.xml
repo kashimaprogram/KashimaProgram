@@ -4,149 +4,145 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
 
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/index.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/jpactivity.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/jpposter.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/jpvideo.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/jpcontact.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/enindex.html</loc>
-  <lastmod>2022-03-12T19:06:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/myindex.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/enactivity.html</loc>
-  <lastmod>2022-03-12T19:06:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/myactivity.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/enposter.html</loc>
-  <lastmod>2022-03-12T19:06:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/myposter.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter2.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter3.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter4.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/envideo.html</loc>
-  <lastmod>2022-03-12T19:06:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/myvideo.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/encontact.html</loc>
-  <lastmod>2022-03-12T19:06:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/mycontact.html</loc>
-  <lastmod>2022-03-12T19:06:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter2.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter3.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter4.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter2.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter3.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter4.pdf</loc>
-  <lastmod>2022-03-12T19:06:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/index.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
 
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/jpactivity.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/jpposter.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/jpvideo.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/jpcontact.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/enindex.html</loc>
+    <lastmod>2022-03-12T19:06:37+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/myindex.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/enactivity.html</loc>
+    <lastmod>2022-03-12T19:06:37+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/myactivity.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/enposter.html</loc>
+    <lastmod>2022-03-12T19:06:37+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/myposter.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter2.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter3.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/jpposter4.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/envideo.html</loc>
+    <lastmod>2022-03-12T19:06:37+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/myvideo.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/encontact.html</loc>
+    <lastmod>2022-03-12T19:06:37+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/mycontact.html</loc>
+    <lastmod>2022-03-12T19:06:39+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter2.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter3.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/enposter4.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter2.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter3.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://kashimaprogram.github.io/KashimaProgram/img/work/myposter4.pdf</loc>
+    <lastmod>2022-03-12T19:06:38+00:00</lastmod>
+  </url>
 
 </urlset>
