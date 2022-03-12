@@ -187,6 +187,12 @@ img {
     font-size: 22px;
     color: #000000;
     margin-bottom: 0; }
+  .paragraph p2 {
+    font-family: JCF10; 
+    font-weight: 400; 
+    font-size: 28px;
+    color: #000000;
+    margin-bottom: 0; }
 
 /* :: 3.5.0 Preloader */
 .preloader {
@@ -216,6 +222,10 @@ img {
     background-color: #edfafd;
     -webkit-animation: zoom 2000ms infinite ease;
     animation: zoom 2000ms infinite ease; }
+    @media only screen and (max-width: 767px) {
+      .preloader .preloader-circle {
+        width: 360px;
+        height: 360px; } }
   .preloader .preloader-img {
     position: absolute;
     top: 50%;
@@ -227,6 +237,9 @@ img {
     -webkit-animation: loader 0.8s linear infinite;}
     .preloader .preloader-img img {
       max-width: 550px; }
+      @media only screen and (max-width: 767px) {
+        .preloader .preloader-img img {
+          max-width: 300px; } }
 
 @-webkit-keyframes zoom {
   0% {
