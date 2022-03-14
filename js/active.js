@@ -48,7 +48,7 @@
             nav: false,
             dots: true,
             autoplay: true,
-            autoplayTimeout: 5000,
+            autoplayTimeout: 10000,
             smartSpeed: 700,
             animateIn: 'fadeIn',
             animateOut: 'fadeOut'

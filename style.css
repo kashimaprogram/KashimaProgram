@@ -155,12 +155,12 @@ img {
   .section-heading h2 {
     font-family: JCF10; 
     font-weight: 900; 
-    font-size: 60px;
+    font-size: 40px;
     text-transform: uppercase;
     margin-bottom: 0; }
     @media only screen and (max-width: 767px) {
       .section-heading h2 {
-        font-size: 60px; } }
+        font-size: 40px; } }
   .section-heading p {
     font-family: JCF10;
     font-weight: 400; 
@@ -2014,10 +2014,10 @@ img {
       visibility: visible; }
 
 .portfolio-page .single_portfolio_poster {
-  height: 720px; }
+  height: 100%; }
   @media only screen and (max-width: 767px) {
     .portfolio-page .single_portfolio_poster {
-      height: 493px; } }
+      height: 100%; } }
 
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
