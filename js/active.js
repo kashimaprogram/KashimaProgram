@@ -97,7 +97,7 @@
             },
             type: 'image'
         });
-        $('.video-icon').magnificPopup({
+        $('.intro-icon').magnificPopup({
             type: 'iframe'
         });
     }
