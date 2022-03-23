@@ -97,9 +97,6 @@
             },
             type: 'image'
         });
-        $('.intro-icon').magnificPopup({
-            type: 'iframe'
-        });
         $('.video-icon').magnificPopup({
             type: 'iframe'
         });
