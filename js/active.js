@@ -100,6 +100,9 @@
         $('.intro-icon').magnificPopup({
             type: 'iframe'
         });
+        $('.video-icon').magnificPopup({
+            type: 'iframe'
+        });
     }
 
     // :: 7.0 Barfiller Active Code
