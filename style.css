@@ -153,7 +153,7 @@ img {
   z-index: 1;
   margin-bottom: 40px; }
   .section-heading h2 {
-    font-family: JCF10; 
+    font-family: JCF1; 
     font-weight: 900; 
     font-size: 40px;
     text-transform: uppercase;
@@ -162,7 +162,7 @@ img {
       .section-heading h2 {
         font-size: 40px; } }
   .section-heading p {
-    font-family: JCF10;
+    font-family: JCF1;
     font-weight: 400; 
     font-size: 24px;
     color: #707070;
@@ -173,7 +173,7 @@ img {
   z-index: 1;
   margin-bottom: 40px; }
   .paragraph h2 {
-    font-family: JCF10; 
+    font-family: JCF1; 
     font-weight: 900; 
     font-size: 32px;
     text-transform: uppercase;
@@ -182,13 +182,13 @@ img {
       .paragraph h2 {
         font-size: 32px; } }
   .paragraph p {
-    font-family: JCF10; 
+    font-family: JCF1; 
     font-weight: 400; 
     font-size: 22px;
     color: #000000;
     margin-bottom: 0; }
   .paragraph p2 {
-    font-family: JCF10; 
+    font-family: JCF1; 
     font-weight: 400; 
     font-size: 28px;
     color: #000000;
@@ -1610,20 +1610,20 @@ img {
         margin-bottom: 50px; } }
   .single-testimonial-slide .testimonial-content p {
     font-size: 24px;
-    font-family: JCF7; 
+    font-family: JCF3; 
     font-weight: 400;
     margin-bottom: 0;
     color: black; }
   .single-testimonial-slide .testimonial-content .testimonial-author-info h6 {
     font-size: 24px;
-    font-family: JCF7; 
+    font-family: JCF3; 
     font-weight: 600;
     margin-bottom: 0;
     color: black; }
   .single-testimonial-slide .testimonial-content .testimonial-author-info p {
     margin-bottom: 0;
     font-size: 24px;
-    font-family: JCF7; 
+    font-family: JCF3; 
     font-weight: 600;
     color: black; }
 
@@ -1708,20 +1708,20 @@ img {
     max-width: 45px;
     width: 45px; }
   .single-service-area .service-content h5 {
-    font-family: JCF7; 
+    font-family: JCF3; 
     font-weight: 600; 
     font-size: 28px;
     margin-bottom: 0; }
 
   .single-service-area .service-content h7 {
-    font-family: JCF7; 
+    font-family: JCF3; 
     font-weight: 600; 
     font-size: 32px;
     color: black;
     margin-bottom: 0; }
 
   .single-service-area .service-content p {
-    font-family: JCF7; 
+    font-family: JCF3; 
     font-weight: 400; 
     font-size: 28px;
     color: black;
@@ -2336,7 +2336,7 @@ img {
     position: relative;
     z-index: 1; }
   .single-blog-post .post-content .post-title h5 {
-    font-family: JCF7;
+    font-family: JCF3;
     font-weight: 900;
     font-size: 24px;
     -webkit-transition-duration: 500ms;
@@ -2354,7 +2354,7 @@ img {
       z-index: 1;
       display: inline-block;
       font-size: 16px;
-      font-family: JCF7;
+      font-family: JCF3;
       font-weight: 900;
       margin-right: 30px; }
       .single-blog-post .post-content .post-meta a:last-child::after {
@@ -2367,7 +2367,7 @@ img {
         color: black; }
   .single-blog-post .post-content .post-excerpt {
     font-size: 18px;
-    font-family: JCF7;
+    font-family: JCF3;
     font-weight: 900;
     margin-bottom: 0; }
   .single-blog-post:hover .post-content .post-title h5 {
@@ -2804,7 +2804,7 @@ img {
   height: 80px; }
 
 .contact-information p {
-  font-family: JCF7;
+  font-family: JCF3;
   font-weight: 600;
   line-height: 1.3;
   color: #707070;
@@ -2937,16 +2937,9 @@ img {
 @font-face {font-family: "CF16"; src: url("fonts/ankecallig-fg.ttf"); }
 @font-face {font-family: "CF17"; src: url("fonts/mathilde.otf"); }
 /*    License provided by https://www.freejapanesefont.com */
-@font-face {font-family: "JCF1"; src: url("fonts/ZakkuriGothic-BLK.otf"); }
-@font-face {font-family: "JCF2"; src: url("fonts/ZeroGothic.otf"); }
-@font-face {font-family: "JCF3"; src: url("fonts/FUTENE.ttf"); }
-@font-face {font-family: "JCF4"; src: url("fonts/genkai-mincho.ttf"); }
-@font-face {font-family: "JCF5"; src: url("fonts/hkgokukaikk.ttf"); }
-@font-face {font-family: "JCF6"; src: url("fonts/katyou.ttf"); }
-@font-face {font-family: "JCF7"; src: url("fonts/syunka.ttf"); }
-@font-face {font-family: "JCF8"; src: url("fonts/seifuu.ttf"); }
-@font-face {font-family: "JCF9"; src: url("fonts/nagayama_kai08.otf"); }
-@font-face {font-family: "JCF10"; src: url("fonts/syunkabb.ttf"); }
+@font-face {font-family: "JCF1"; src: url("fonts/custom/syunkabb.woff2"); }
+@font-face {font-family: "JCF2"; src: url("fonts/custom/zerogothic.woff2"); }
+@font-face {font-family: "JCF3"; src: url("fonts/custom/syunka.woff2"); }
 
 
 /* :: Custom Animation */
